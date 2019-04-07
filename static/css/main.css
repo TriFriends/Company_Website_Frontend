@@ -521,11 +521,6 @@ body {
     max-width: 85%;
 }
 
-.form__group input:focus, textarea:focus {
-    outline: 2px solid var(--primary-color);
-    box-sizing: border-box;
-}
-
 .form__group textarea {
     min-width: 220px;
     max-width: 85%;

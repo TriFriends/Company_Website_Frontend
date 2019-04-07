@@ -8,12 +8,12 @@ $(document).ready(function () {
         },
         {
             name: "Dominik Smęda",
-            commemt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam arcu ipsum, elementum in leo ut, eleifend facilisis sapien. Maecenas ut libero ac ligula interdum sagittis. Maecenas sapien diam, venenatis ac suscipit quis, eleifend a tortor. Cras non suscipit tortor. Praesent sodales orci eu enim venenatis, quis semper est molestie. Sed rhoncus ante sed velit fermentum laoreet. Quisque tempus arcu lorem, sed efficitur leo dictum non.",
+            commemt: "Nam arcu ipsum, elementum in leo ut, eleifend facilisis sapien. Maecenas ut libero ac ligula interdum sagittis. Maecenas sapien diam, venenatis ac suscipit quis, eleifend a tortor. Cras non suscipit tortor. Praesent sodales orci eu enim venenatis, quis semper est molestie. Sed rhoncus ante sed velit fermentum laoreet. Quisque tempus arcu lorem, sed efficitur leo dictum non.",
             image: "./static/content/dddd.jpg"
         },
         {
             name: "Michał Walancik",
-            commemt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam arcu ipsum, elementum in leo ut, eleifend facilisis sapien. Maecenas ut libero ac ligula interdum sagittis. Maecenas sapien diam, venenatis ac suscipit quis, eleifend a tortor. Cras non suscipit tortor. Praesent sodales orci eu enim venenatis, quis semper est molestie. Sed rhoncus ante sed velit fermentum laoreet. Quisque tempus arcu lorem, sed efficitur leo dictum non.",
+            commemt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam arcu ipsum, facilisis sapien. Maecenas ut libero ac ligula interdum sagittis. Maecenas sapien diam, venenatis ac suscipit quis, eleifend a tortor. Cras non suscipit tortor. Praesent sodales orci eu enim venenatis, quis semper est molestie. Sed rhoncus ante sed velit fermentum laoreet. Quisque tempus arcu lorem, sed efficitur leo dictum non.",
             image: "./static/content/adult.jpg"
         }
     ]
