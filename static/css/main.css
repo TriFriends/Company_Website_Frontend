@@ -7,6 +7,7 @@
     --paragraph-width: 500px;
 }
 
+
 .primary--color {
     color: var(--primary-color);
 }
@@ -137,6 +138,8 @@ p {
     background-size: cover;
     background-position: center;
     color: var(--third-color);
+    -webkit-animation: fade-in 1.2s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+	        animation: fade-in 1.2s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
 }
 
 .hero__section__bg {
@@ -342,6 +345,8 @@ body {
     padding: 1em 20px;
     border-radius: 5px;
     border-bottom: 1px solid white;
+    -webkit-animation: fade-in 1.2s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+    animation: fade-in 1.2s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
 }
 
 .feedback__list__item:hover {

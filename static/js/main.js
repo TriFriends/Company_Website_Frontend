@@ -19,6 +19,7 @@ $(document).ready(function () {
     ]
     let current_feedback = 0
 
+
     for (let i = 0; i < opinions.length; i++) {
         let feedbackListItemElement = $("<div>").addClass("feedback__list__item")
         let feedbackListeImageElement = $("<div>").addClass("feedback__list__image")
@@ -118,10 +119,8 @@ $(document).ready(function () {
         if (this.hash !== "") {
             event.preventDefault()
             let hash = this.hash
-            $('html, body').animate({
-                scrollTop: $(hash).offset().top
-            }, 600, function () {
-                window.location.hash = hash
+            document.querySelector(hash).scrollIntoView({
+                behavior: 'smooth'
             })
         }
     })
